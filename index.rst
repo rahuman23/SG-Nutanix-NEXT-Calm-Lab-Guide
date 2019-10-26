@@ -44,20 +44,17 @@ Networking
 
 Hosted POC clusters follow a standard naming convention:
 
-- **Cluster Name** - POC\ *XYZ*
-- **Subnet** - 10.**21**.\ *XYZ*\ .0
-- **Cluster IP** - 10.**21**.\ *XYZ*\ .37
+- **Cluster Name** - PHX-POC109
+- **Subnet** - 110.42.109.0/25
+- **Cluster IP** - 10.42.109.37
 
-If provisioned from the marketing pool:
-- **Cluster Name** - MKT\ *XYZ*
-- **Subnet** - 10.**20**.\ *XYZ*\ .0
-- **Cluster IP** - 10.**20**.\ *XYZ*\ .37
+Secondary Network
 
-For example:
+- **Secondary VLAN** - 1091
+- **Secondary Subnet** - 255.255.255.128
+- **Secondary Gateway** - 10.42.109.129
+- **Secondary IP Range** - 10.42.109.132-254
 
-- **Cluster Name** - POC055
-- **Subnet** - 10.21.55.0
-- **Cluster IP** - 10.21.55.37
 
 Credentials
 ...........
