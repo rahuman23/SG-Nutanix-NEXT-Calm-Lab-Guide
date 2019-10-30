@@ -33,7 +33,7 @@ Welcome to Nutanix .NEXT on Tour Singapore Hands on Lab session! Each section ha
 
 At the end of the bootcamp, attendees should understand the basic concepts and technologies that make up the Nutanix Enterprise Cloud stack and should be well prepared for a hosted or onsite proof-of-concept (POC) engagement.
 
-To access the cluster, enter the following URL - https://10.42.109.37:9440/console/#login in your browser.
+To access the cluster, enter the following URL - https://10.42.109.39:9440/console/#login in your browser.
 
 This will bring you the Prism Management interface.
 
