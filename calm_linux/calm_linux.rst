@@ -36,7 +36,7 @@ You can use blueprints to model the applications of various complexities; from s
 
    - **Name** - *Initials*-CalmLinuxIntro
    - **Description** - [Task Manager Application](\http://@@{HAProxy.address}@@/)
-   - **Project** - *Initials*-Calm
+   - **Project** - Default
 
    .. figure:: images/2.png
 
