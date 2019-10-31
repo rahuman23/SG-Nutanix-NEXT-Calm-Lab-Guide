@@ -44,7 +44,7 @@ Hosted POC clusters follow a standard naming convention:
 
 - **Cluster Name** - PHX-POC109
 - **Subnet** - 110.42.109.0/25
-- **Cluster IP** - 10.42.109.37
+- **Cluster IP** - 10.42.109.39
 
 Secondary Network
 
